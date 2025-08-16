@@ -47,24 +47,24 @@ PEREIRA, G. G.; CAMBRAIA-FILHO, D. J.; PAIM, D. A.; GANDARA, R. M.; BAPTISTA, G.
 ```
 
 ## 👥 Autores:
-- **Glaucia Guimarães Pereira**
+- **Glaucia Guimarães Pereira** <br>
 [![Email](https://img.shields.io/badge/Email-glauciagp23@gmail.com-blue?style=flat&logo=gmail)](mailto:glauciagp23@gmail.com)
 
-- **Dácio José Cambraia Filho**
+- **Dácio José Cambraia Filho** <br>
 [![Email](https://img.shields.io/badge/Email-daciocambraia@hotmail.com-blue?style=flat&logo=gmail)](mailto:daciocambraia@hotmail.com)
   
-- **Diego de Almeida Paim**
+- **Diego de Almeida Paim** <br>
 [![Email](https://img.shields.io/badge/Email-diego.paim@aluno.unb.br-blue?style=flat&logo=gmail)](mailto:diego.paim@aluno.unb.br)
 
-- **Roberto Mandetta Gandara**
+- **Roberto Mandetta Gandara** <br>
 [![Email](https://img.shields.io/badge/Email-rgandara@gmail.com-blue?style=flat&logo=gmail)](mailto:rgandara@gmail.com)
 
-- **Gustavo Macedo de Mello Baptista**
+- **Gustavo Macedo de Mello Baptista** <br>
 [![Email](https://img.shields.io/badge/Email-gmbaptista@unb.br-blue?style=flat&logo=gmail)](mailto:gmbaptista@unb.br)
 
 ## 📊 Fonte de dados:
-- **Malha de Setores Censitários (2022)**
+- **Malha de Setores Censitários (2022)** <br>
 [![IBGE](https://img.shields.io/badge/Link-IBGE-blue?logo=data:image/png;base64,...)](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/26565-malhas-de-setores-censitarios-divisoes-intramunicipais.html)
 
-- **MapBiomas Coleção 9**
+- **MapBiomas Coleção 9** <br>
 [![MapBiomas](https://img.shields.io/badge/Link-MapBiomas-green?logo=leaf)](https://brasil.mapbiomas.org/)
